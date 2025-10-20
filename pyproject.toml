@@ -1,0 +1,10 @@
+[project]
+name = "holiday-rule-engine"
+version = "0.1.0"
+description = "Holiday provider and boolean rule engine for CN working-day calendar"
+authors = [{name = "ctonew-bot"}]
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = "-q"
