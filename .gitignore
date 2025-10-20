@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.env
+.venv
+*.swp
+*.swo
+.pytest_cache/
+.cache/
+
+# macOS
+.DS_Store
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDEs/editors
+.vscode/
+.idea/
